@@ -92,7 +92,7 @@
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sanjay-Batthula&theme=dark" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Sanjay-Batthula" />
-        <img align="left" width=390 src="https://streak-stats.demolab.com?user=Sanjay-Batthula" alt="Sanjay-Batthula's streak stats" />
+        <img align="left" width=390 src="https://streak-stats.demolab.com?user=Sanjay-Batthula&theme=dark" alt="Sanjay-Batthula's streak stats" />
       </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
