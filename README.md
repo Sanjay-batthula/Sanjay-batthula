@@ -90,16 +90,16 @@
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sanjay-Batthula&hide_border=true" />
-        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com/?user=Sanjay-Batthula&theme=default&border=61dafb" />
-        <img align="left" width=390 src="https://streak-stats.demolab.com/?user=Sanjay-Batthula&theme=default&border=61dafb" alt="Sanjay-Batthula's streak stats" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sanjay-Batthula&theme=dark" />
+        <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Sanjay-Batthula" />
+        <img align="left" width=390 src="https://streak-stats.demolab.com?user=Sanjay-Batthula" alt="Sanjay-Batthula's streak stats" />
       </picture>
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sanjay-Batthula&show_icons=true&theme=react&hide_border=true" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=sanidhyy&show_icons=true&theme=default&border_color=61dafb" />
-        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Sanjay-Batthula&show_icons=true&theme=default&border_color=61dafb" alt="sanidhyy's github stats" />
+        <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=Sanjay-Batthula&show_icons=true&theme=default&border_color=61dafb" alt="Sanjay-Batthula's github stats" />
       </picture>
     </a>
   </div>
