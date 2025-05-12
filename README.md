@@ -88,7 +88,7 @@
 <br />
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <a href="https://github.com/Sanjay-batthula" title="Go to Source">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Sanjay-Batthula&theme=dark" />
         <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://streak-stats.demolab.com?user=Sanjay-Batthula" />
@@ -109,3 +109,6 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Batthula&theme=react-dark" />
       <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Batthula&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
       <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Batthula&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide
+    </picture>
+  </a>
+</p>
