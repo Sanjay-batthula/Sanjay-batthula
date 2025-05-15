@@ -14,7 +14,7 @@
   Hi, I'm Sanjay, Web Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ from India 🇮🇳.
   <br />
   <br />
-  🎓 Currently a high school student.
+  🎓 Currently an Undergraduate at ACE Engineering College.
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
