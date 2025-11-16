@@ -18,7 +18,7 @@
   <br />
   💻 I love to learn new technologies and frameworks.
   <br />
-  🧑‍💼 I’m currently a intern as a Web developer at Edueme Research Labs.
+  🧑‍💼 I’m currently a Tech Lead at S-Hatch and cofounder of Crashcue+
   <br />
 </p>
 
@@ -42,7 +42,6 @@
         </picture>
           <br />
           <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=dark" />
             <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" />
             <img src="https://skillicons.dev/icons?i=nodejs%2Cexpress%2Cmongodb%2Cmysql%2Cpostgres%2Credux%2Cprisma%2Cfirebase%2Csupabase&theme=light" alt="skills - 2" />
         </picture>
@@ -103,12 +102,4 @@
       </picture>
     </a>
   </div>
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" title="Go to Source">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Batthula&theme=react-dark" />
-      <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Batthula&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide_border=true" />
-      <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sanjay-Batthula&bg_color=ffffff&color=708090&line=24292e&point=24292e&area=true&hide
-    </picture>
-  </a>
 </p>
