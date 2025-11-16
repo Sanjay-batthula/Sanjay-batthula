@@ -23,6 +23,22 @@
 
 ---
 
+<table>
+<tr>
+<td width="48%" style="backdrop-filter: blur(14px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 18px; border:1px solid rgba(255,255,255,0.12);">
+<h3>🔥 Who Am I?</h3>
+<p>Product-first engineer crafting clean, scalable digital ecosystems with real-world impact.</p>
+</td>
+
+<td width="48%" style="backdrop-filter: blur(14px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 18px; border:1px solid rgba(255,255,255,0.12);">
+<h3>🚀 What Drives Me?</h3>
+<p>Building high-performance SaaS, AI-driven tools & cloud-native systems with delightful UX.</p>
+</td>
+</tr>
+</table>
+
+---
+
 <!-- Social Buttons -->
 <div align="center">
   <a href="mailto:sanjaybatthula24@gmail.com">
