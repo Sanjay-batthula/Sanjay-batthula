@@ -5,20 +5,57 @@
 
 <!-- Title -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Hey+There!+👋;I'm+Sanjay+Batthula+🔥;Full-Stack+Developer+⚡;Tech+Lead+%26+Innovator+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Sanjay+Batthula;Full-Stack+Developer;Building+Systems+That+Scale;Consistency+%3E+Motivation"/>
 </h1>
 
-<!-- About -->
+<!-- Tagline -->
 <p align="center">
-  <b>Developer • Innovator • Tech Lead • Cofounder</b>  
-  <br/><br/>
-  👨‍🎓 CS Undergraduate @ ACE Engineering College  
-  <br/>
-  💻 Passionate about building modern web apps, UI/UX & scalable systems  
-  <br/>
-  🚀 Tech Lead @ S-Hatch | Cofounder @ Crashcue+  
-  <br/>
-  🎯 Mission: Build impactful digital experiences & dev products  
+  <b>Developer • Builder • Systems Thinker</b>
+</p>
+
+---
+
+<!-- About -->
+### 🚀 About Me
+
+- 🎓 B.Tech Graduate in Computer Science  
+- 💻 Full-Stack Developer focused on scalable, real-world systems  
+- 🧠 Strong foundation in problem-solving, DevOps, and system thinking  
+- 🌐 Founder of **TruNorth** → [trunorth.dev](https://trunorth.dev)  
+- 📈 Focused on long-term growth, consistency, and high-impact work  
+
+---
+
+<!-- Philosophy -->
+### ⚡ What I Believe
+
+- Consistency beats bursts of motivation  
+- Building > Consuming  
+- Real skills come from shipping, not watching tutorials  
+- Growth compounds when you stay disciplined  
+
+---
+
+<!-- Current Focus -->
+### 🔥 Current Focus
+
+- 🚀 Building production-ready web applications  
+- ⚙️ Exploring scalable architectures & system design  
+- 🧩 Strengthening DSA & problem-solving depth  
+- ☁️ Working with cloud + DevOps practices  
+
+---
+
+<!-- Closing -->
+### 📍 Direction
+
+> Not here to just write code.  
+> Here to build things that actually matter.
+
+---
+
+<p align="center">
+  🚀 <b>Always building. Always improving.</b>
 </p>
 
 ---
@@ -106,12 +143,6 @@
 - Creating **developer-first tools**
 
 ---
-
-## ☕ Support My Work
-
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/></a>
-</p>
 
 ---
 
