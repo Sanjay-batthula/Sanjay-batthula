@@ -1,150 +1,94 @@
-<!-- Profile Views -->
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=Sanjay-Batthula&color=blueviolet&style=flat-square&label=Profile+Views"/>
-</p>
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=Sanjay-batthula&label=VISITORS&color=7c3aed&style=flat" alt="Profile views" />
+</div>
 
-<!-- Title -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Sanjay+Batthula;Full-Stack+Developer;Building+Systems+That+Scale;Consistency+%3E+Motivation"/>
-</h1>
-
-<!-- Tagline -->
-<p align="center">
-  <b>Developer • Builder • Systems Thinker</b>
-</p>
-
----
-
-<!-- About -->
-### 🚀 About Me
-
-- 🎓 B.Tech Graduate in Computer Science  
-- 💻 Full-Stack Developer focused on scalable, real-world systems  
-- 🧠 Strong foundation in problem-solving, DevOps, and system thinking  
-- 🌐 Founder of **TruNorth** → [trunorth.dev](https://trunorth.dev)  
-- 📈 Focused on long-term growth, consistency, and high-impact work  
-
----
-
-<!-- Philosophy -->
-### ⚡ What I Believe
-
-- Consistency beats bursts of motivation  
-- Building > Consuming  
-- Real skills come from shipping, not watching tutorials  
-- Growth compounds when you stay disciplined  
-
----
-
-<!-- Current Focus -->
-### 🔥 Current Focus
-
-- 🚀 Building production-ready web applications  
-- ⚙️ Exploring scalable architectures & system design  
-- 🧩 Strengthening DSA & problem-solving depth  
-- ☁️ Working with cloud + DevOps practices  
-
----
-
-<!-- Closing -->
-### 📍 Direction
-
-> Not here to just write code.  
-> Here to build things that actually matter.
-
----
-
-<p align="center">
-  🚀 <b>Always building. Always improving.</b>
-</p>
-
----
-
-<table>
-<tr>
-<td width="48%" style="backdrop-filter: blur(14px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 18px; border:1px solid rgba(255,255,255,0.12);">
-<h3>🔥 Who Am I?</h3>
-<p>Product-first engineer crafting clean, scalable digital ecosystems with real-world impact.</p>
-</td>
-
-<td width="48%" style="backdrop-filter: blur(14px); background: rgba(255,255,255,0.05); border-radius: 15px; padding: 18px; border:1px solid rgba(255,255,255,0.12);">
-<h3>🚀 What Drives Me?</h3>
-<p>Building high-performance SaaS, AI-driven tools & cloud-native systems with delightful UX.</p>
-</td>
-</tr>
-</table>
-
----
-
-<!-- Social Buttons -->
 <div align="center">
-  <a href="mailto:sanjaybatthula24@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sanjay-batthula-628075261/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Sanjay-batthula">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=32&duration=2800&pause=850&color=8B5CF6&center=true&vCenter=true&width=850&height=85&lines=Hey%2C+I'm+Sanjay+Batthula+%F0%9F%91%8B;From+software+to+intelligent+systems;Build.+Experiment.+Engineer.+Repeat." alt="Animated introduction" />
+
+### MSc Applied AI · Software Developer · Aspiring AI Engineer
+
+**London, UK** &nbsp;•&nbsp; **Northeastern University London**
+
+*Interested in the engineering behind intelligent products, from the interface people use to the systems and models that power them.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanjay-batthula-628075261/)
+[![Email](https://img.shields.io/badge/Email-Say_Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanjaybatthula24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=vercel&logoColor=white)](https://sanjaybatthula.vercel.app/)
+
 </div>
 
 ---
 
-## 🏆 Highlights
+### `> whoami`
 
-- 🚀 Building innovative tools/products
-- 🎯 Problem solver + clean code advocate
-- 🌎 Focus on Web, Cloud, and System Design
-- 🧠 Always learning, shipping & scaling
+I'm **Sanjay**, a developer with experience turning ideas into working digital products, including client projects, application interfaces, API integrations and automation. I enjoy working across the product and engineering layers, connecting how something feels to how it actually works.
 
----
+I'm currently pursuing an **MSc in Applied Artificial Intelligence at Northeastern University London**, building on my computer science background and the **Accelerated Pathway in Data Science completed at IIIT Bangalore**.
 
-## ⚡ Tech Stack
+My direction is **Applied AI and AI Engineering**, with particular interest in **LLM-powered applications, agentic workflows, multimodal interaction and reliable AI systems**. I'm developing those skills through academic work, experiments and independent engineering projects, rather than claiming production AI expertise before earning it.
 
-<br/>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,ts,js,html,css,tailwind,threejs,vite,nodejs,express,mongodb,mysql,postgres,firebase,prisma,supabase,git,github,figma" />
-</p>
+### `> current_focus`
 
----
+```text
+01  APPLIED AI       Building a stronger foundation in practical ML and LLM applications
+02  AGENTIC SYSTEMS  Exploring tool use, orchestration and workflow automation
+03  AI ENGINEERING   Learning evaluation, testing, deployment and reliability
+04  SYSTEMS         Applying software architecture and product thinking to AI
+```
 
-## 🚀 Deployed Platforms
+### `> experience`
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-  <br/><br/>
-  
-</p>
+**S-Hatch** · AI/ML and software development experience · **18 months**  
+Worked across AI-related prototypes, application development and integrations.
 
----
+**TruNorth** · Founder / Builder  
+Developing digital products and delivering client solutions spanning websites, automation and AI-oriented ideas.
 
-## 🧩 Fun Stats
+**Independent client projects**  
+Built and delivered digital experiences for businesses across multiple sectors. Much of this work is kept in private repositories because it is client-related.
+
+### `> technical_toolkit`
 
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com?user=Sanjay-Batthula&theme=tokyonight"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjay-batthula&layout=compact&theme=tokyonight"/>
+
+**Languages & application engineering**
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,react,nextjs,nodejs,express,fastapi,html,css,tailwind&perline=12" alt="Programming and application engineering tools" />
+
+**AI, machine learning & data**
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,postgres,mongodb,mysql,firebase&perline=8" alt="AI and data technologies" />
+
+`scikit-learn` · `Hugging Face` · `LLM APIs` · `LangChain` · `NLP` · `Streamlit` · `Pandas` · `NumPy`
+
+**Engineering workflow & delivery**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,gcp,figma,vscode&perline=8" alt="Engineering workflow and delivery tools" />
+
 </div>
 
+<sub>Toolkit reflects technologies encountered through projects, work or study; depth of proficiency varies. Current AI engineering interests are not claims of production-level mastery.</sub>
+
+### `> education`
+
+- **MSc Applied Artificial Intelligence** · Northeastern University London · *2026–present*
+- **Accelerated Pathway in Data Science** · IIIT Bangalore · *Completed*
+- **B.Tech in Computer Science and Engineering** · Jawaharlal Nehru Technological University · *2022-2026*
+
+
+### `> contribution_snake`
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Sanjay-batthula/Sanjay-batthula/main/github-contribution-grid-snake.svg" alt="Animated contribution snake, when generated in the profile repository" />
+</div>
+
+<div align="center">
+
 ---
 
-## 🐍 Activity Snake
+**Curious about intelligent systems. Serious about building them well.**
 
-<p align="center">
-  <img src="https://github.com/Sanjay-batthula/Sanjay-batthula/blob/main/github-contribution-grid-snake.svg" alt="github-snake" />
-</p>
+<sub>Code is the medium. Useful systems are the goal.</sub>
 
----
-
-## 📌 Current Focus
-
-- Building **high-performance SaaS**
-- Mastering **AI + Cloud + System Architecture**
-- Creating **developer-first tools**
-
----
-
----
-
-<h3 align="center">✨ “Code. Break. Fix. Scale. Repeat.” ✨</h3>
-
+</div>
